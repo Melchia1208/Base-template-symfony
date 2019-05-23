@@ -1,0 +1,33 @@
+.container-fluid {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(0deg, rgb(255, 255, 255) 30%, rgba(211,133,61,0.8) 100%);
+  position: relative;
+  margin: 0;
+}
+
+#form {
+  width: 30vw;
+  text-align: center;
+  margin: auto;
+  padding-top: 25vh;
+  input {
+    margin: 0 auto 2vh auto;
+    width: 20vw;
+    text-align: center;
+  }
+}
+
+#checkbox {
+  margin: 5px !important;
+  width: auto !important;
+}
+
+h1 {
+  padding-top: 2vh;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
